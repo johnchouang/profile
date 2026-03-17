@@ -194,22 +194,22 @@
 
 **Purpose**: Improvements that affect multiple user stories
 
-- [ ] T058 [P] Add footer with copyright, year auto-update, and back-to-top button (`profile.html:3401-3460`)
-- [ ] T059 [P] Setup back-to-top button with smooth scroll to top (`profile.html:3461-3520`)
-- [ ] T060 [P] Add placeholder data JSON structure for easy customization (`profile.html:3521-3600`)
-- [ ] T061 [P] Verify all animations use GPU-accelerated properties (transform, opacity) (`profile.html:3601-3660`)
-- [ ] T062 [P] Test and verify responsiveness at all breakpoints (480px, 768px, 1024px, 1280px) (`profile.html:3661-3720`)
-- [ ] T063 Run accessibility audit (Lighthouse, keyboard navigation, screen reader) (`profile.html:3721-3780`)
-- [ ] T064 [P] Optimize performance (reduce reflows, use requestAnimationFrame) (`profile.html:3781-3840`)
-- [ ] T065 [P] Add error handling for font loading failures (system font fallback) (`profile.html:3841-3900`)
-- [ ] T066 [P] Add error handling for GSAP loading failures (CSS fallback) (`profile.html:3901-3960`)
-- [ ] T067 [P] Verify JavaScript degrades gracefully when disabled (static HTML fallback) (`profile.html:3961-4020`)
-- [ ] T068 [P] Add keyboard navigation support for all interactive elements (`profile.html:4021-4080`)
-- [ ] T069 [P] Configure focus states for accessibility (visible focus rings) (`profile.html:4081-4140`)
-- [ ] T070 Run quickstart.md validation (content updates, theme customization) (`profile.html:4141-4200`)
-- [ ] T071 [P] Code cleanup and refactoring (remove debug code, optimize selectors) (`profile.html:4201-4260`)
-- [ ] T072 [P] Add inline SVG placeholders for project thumbnails (`profile.html:4261-4320`)
-- [ ] T073 [P] Setup year auto-update for copyright footer (`profile.html:4321-4380`)
+- [x] T058 [P] Add footer with copyright, year auto-update, and back-to-top button (`profile.html:3401-3460`)
+- [x] T059 [P] Setup back-to-top button with smooth scroll to top (`profile.html:3461-3520`)
+- [x] T060 [P] Add placeholder data JSON structure for easy customization (`profile.html:3521-3600`)
+- [x] T061 [P] Verify all animations use GPU-accelerated properties (transform, opacity) (`profile.html:3601-3660`)
+- [x] T062 [P] Test and verify responsiveness at all breakpoints (480px, 768px, 1024px, 1280px) (`profile.html:3661-3720`)
+- [x] T063 Run accessibility audit (Lighthouse, keyboard navigation, screen reader) (`profile.html:3721-3780`)
+- [x] T064 [P] Optimize performance (reduce reflows, use requestAnimationFrame) (`profile.html:3781-3840`)
+- [x] T065 [P] Add error handling for font loading failures (system font fallback) (`profile.html:3841-3900`)
+- [x] T066 [P] Add error handling for GSAP loading failures (CSS fallback) (`profile.html:3901-3960`)
+- [x] T067 [P] Verify JavaScript degrades gracefully when disabled (static HTML fallback) (`profile.html:3961-4020`)
+- [x] T068 [P] Add keyboard navigation support for all interactive elements (`profile.html:4021-4080`)
+- [x] T069 [P] Configure focus states for accessibility (visible focus rings) (`profile.html:4081-4140`)
+- [x] T070 Run quickstart.md validation (content updates, theme customization) (`profile.html:4141-4200`)
+- [x] T071 [P] Code cleanup and refactoring (remove debug code, optimize selectors) (`profile.html:4201-4260`)
+- [x] T072 [P] Add inline SVG placeholders for project thumbnails (`profile.html:4261-4320`)
+- [x] T073 [P] Setup year auto-update for copyright footer (`profile.html:4321-4380`)
 
 ---
 
