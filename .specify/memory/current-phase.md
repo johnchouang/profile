@@ -1,18 +1,16 @@
-COMPLETED_PHASE: Phase 3 — Technical Plan
+COMPLETED_PHASE: Phase 4 — Task Breakdown
 FEATURE_SLUG: 001-profile-website
-NEXT_PHASE: Phase 4 — Task Breakdown
-NEXT_ACTION: Read .opencode/command/speckit.tasks.md and invoke /speckit.tasks.
+NEXT_PHASE: Phase 5 — Implementation
+NEXT_ACTION: Read phase1 through phase4 summaries to restore context, then
+  read .opencode/command/speckit.implement.md and invoke /speckit.implement.
 
 COMPLETED_ARTIFACTS:
-- specs/001-profile-website/plan.md
-- specs/001-profile-website/research.md
-- specs/001-profile-website/data-model.md
-- specs/001-profile-website/contracts/api-contract.md
-- specs/001-profile-website/quickstart.md
-- AGENTS.md (updated)
-- .specify/memory/phase3-summary.md
+- specs/001-profile-website/tasks.md
+- .specify/memory/phase4-summary.md
 
 PHASE_NOTES:
-Stack: HTML5, CSS3, Vanilla JavaScript (ES6+) + Google Fonts (Syne, DM Sans, JetBrains Mono), GSAP via CDN (with CSS fallback)
-Architecture: Single-file architecture with all HTML, CSS, and JavaScript contained in one profile.html file. No external CSS/JS files, no build tools, no npm dependencies.
-Over-engineering removed: None - implementation adheres strictly to constitutional principles and spec requirements.
+Total tasks: 73 across 11 phases in tasks.md
+First task to execute: T001 (all tasks are unchecked [ ])
+User stories covered: US1 (T014-T019), US2 (T020-T025), US3 (T026-T030), US4 (T031-T035), US5 (T036-T041), US6 (T042-T046), US7 (T047-T052), US8 (T053-T057)
+Stack reminder: HTML5, CSS3, Vanilla JavaScript (ES6+) with Google Fonts and GSAP via CDN
+Next phase must NOT add tasks to ralph-tasks.md. All work is driven by tasks.md only.
